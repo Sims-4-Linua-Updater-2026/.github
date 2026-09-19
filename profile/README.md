@@ -1,6 +1,6 @@
 # **Linua Updater: A Universal Sims 4 DLC Unlocker and Manager tool**
 
-Modern DLC management tool for The Sims 4
+An easy and modern DLC management tool for The Sims 4
 © 2024–2026 l1ntol — All Rights Reserved
 
 ---
@@ -8,7 +8,7 @@ Modern DLC management tool for The Sims 4
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Sims-4-Linua-Updater-2026/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
